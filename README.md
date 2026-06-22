@@ -1,7 +1,6 @@
 # EduWing AI Autonomous Robot Project
 
-이 프로젝트는 ROS2와 YOLOv8 기반의 AI 자율주행 모바일 로봇 시스템 제
-어 코드 저장소입니다.
+이 프로젝트는 ROS2와 YOLOv8 기반의 AI 자율주행 모바일 로봇 시스템 제어 코드 저장소입니다.
 
 ## 개발 환경 (Environment)
 - **OS:** Ubuntu 24.04 LTS
